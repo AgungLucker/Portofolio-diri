@@ -14,13 +14,15 @@ const About = () => {
       <div className="grid grid-cols-12 gap-16 items-center py-16 px-16">
         <div className="col-span-8 mt-4 md:mt-0 text-left flex flex-col h-full">
           <div className="my-4 mb-4 pr-4">
-            <h2 className="text-4xl font-bold text-black mb-4">My Profile</h2>
+            <h2 className="text-4xl font-bold text-black mb-4">About Me</h2>
             <p className="text-lg text-gray-900">
-              I am Muhammad Aufa Farabi, A 19 year old undergraduate Informatics Engineering Student at Institut Teknologi Bandung.
-              ga bakal periss
-              My enthusiasm for creating user-friendly interfaces drives me to explore the latest technologies and design trends.
-               I enjoy turning complex problems into intuitive and engaging web applications, always aiming to enhance the user
-                experience through thoughtful design and innovative solutions.
+            Hi! I'm Muhammad Aufa Farabi, but you can call me Aufa. At this 19th age, currently i'm studying informatics 
+            engineering in Institut Teknologi Bandung. I have my interest on Software Development and currently focusing 
+            on learning Front End Development. Besides that, Cybersecurity also fascinates me and I'm eager to expand my knowledge 
+            in this area. Building projects has been a good challenges for me and fuels my enthusiasm for learning a further new knowledge.
+            My goal hopefully is to master both Front End and Back End technologies, ultimately becoming a well-rounded Full-Stack Developer. 
+            I'm excited about the journey ahead and the opportunities to grow in this dynamic field.
+              
             
 
               

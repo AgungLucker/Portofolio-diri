@@ -21,11 +21,7 @@ const About = () => {
             on learning Front End Development. Besides that, Cybersecurity also fascinates me and i am eager to expand my knowledge 
             in this area. Building projects has been a good challenges for me and fuels my enthusiasm for learning a further new knowledge.
             My goal hopefully is to master both Front End and Back End technologies, ultimately becoming a well-rounded Full-Stack Developer. 
-            I'm excited about the journey ahead and the opportunities to grow in this dynamic field.
-              
-            
-
-              
+            I am excited about the journey ahead and the opportunities to grow in this dynamic field.
             </p>
           </div>
           <div className="text-black mt-8">

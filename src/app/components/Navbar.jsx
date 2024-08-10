@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react"
 import Link from "next/link";
 import Image from "next/image";
 import GithubIcon from "../../../public/github-icon.svg";
@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="fixed backdrop-blur border border-b-3 border-[#808080] w-full top-0 left-0 right-0 bg-white bg-opacity-60 z-10">
         <div className="flex justify-between items-center p-6 mx-auto">
-            <Link href={"/"} className="text-gray-700 text-3xl font-bold mx-3">Aufa's Portfolio</Link>
+            <Link href={"/"} className="text-gray-700 text-3xl font-bold mx-3">Aufa Portfolio</Link>
             <div className="flex ml-auto mr-10 space-x-4 text-gray-500">
                 <Link href="#about" className="hover:text-black text-lg">About</Link>
                 <Link href="#more" className="hover:text-black text-lg">More</Link>

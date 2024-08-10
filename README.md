@@ -19,7 +19,7 @@ This is the technologies that the Projects require:
 ## BONUS
 
 - Deployment : Complete
-- Responsive design : Partial
+- Responsive design : Not worked
 - Data basis or CMS usage : Not worked
 - Creativity : Partial
 

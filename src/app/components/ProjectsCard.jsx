@@ -19,15 +19,14 @@ const ProjectsCard = ({ imgURL, title, desc, techStack, tab }) => {
           <div className="bg-white p-4 text-black">
             <div className="flex flex-row justify-between items-center">
               <h3 className="text-lg font-semibold">{title}</h3>
-              {/* Display tech stack icons */}
               {techStack && techStack.length > 0 && (
                 <div className="flex ml-4 items-end">
                   {techStack.map((tech, index) => (
                     <img
                       key={index}
-                      src={techStackIcons[tech] || "/public/default-icon.png"} // Fallback icon
+                      src={techStackIcons[tech] || "/public/default-icon.png"} 
                       alt={tech}
-                      className="h-6 w-6 ml-2" // Adjust size as needed
+                      className="h-6 w-6 ml-2" 
                     />
                   ))}
                 </div>

@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import GithubIcon from "../../../public/github-icon.svg";
 import LinkedinIcon from "../../../public/linkedin-icon.svg";
+
 const Footer = () => {
   return (
     <footer id ="contact"className="border-t border-gray-500 left-0 px-16 py-4 pb-4">

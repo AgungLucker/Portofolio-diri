@@ -8,6 +8,7 @@ import PythonIcon from "../../../public/python-5.svg"
 import NextJSIcon from "../../../public/next-js.svg"
 import GithubIcon from "../../../public/github-icon.svg"
 import GitIcon from "../../../public/git-icon.svg"
+
 const About = () => {
   return (
     <section id="About" className="h-100vh bg-[#ffcfda] -mx-10 -my-12">

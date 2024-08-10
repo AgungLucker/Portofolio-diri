@@ -49,7 +49,7 @@ const More = () => {
   };
 
   const filteredProjects = ProjectsData.filter((project) =>
-    project.tab.includes(tab) // Check if tab is included in the project's tab array
+    project.tab.includes(tab) 
   );
 
   const tabItems = [

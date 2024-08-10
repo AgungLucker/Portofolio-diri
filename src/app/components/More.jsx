@@ -8,7 +8,7 @@ const ProjectsData = [
   {
     id: 1,
     title: "O.W.C.A Game",
-    description: "A Pokemon-like turn-based fighting game",
+    description: "A Pokemon-like turn-based fighting game.",
     image: "/images/O.W.C.A.png",
     tab: ["Projects"],
     techStack: ["Python"],

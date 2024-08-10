@@ -17,8 +17,8 @@ const About = () => {
           <div className="my-4 mb-4 pr-4">
             <h2 className="text-4xl font-bold text-black mb-4">About Me</h2>
             <p className="text-lg text-gray-900">
-            Hi! I am Muhammad Aufa Farabi, but you can call me Aufa. At this 19th age, currently i am studying informatics 
-            engineering in Institut Teknologi Bandung. I have my interest on Software Development and currently focusing 
+            Hi! I am Muhammad Aufa Farabi, but you can call me Aufa. At this 19th age, currently i am an Undergraduate Student of Informatics 
+            Engineering in Institut Teknologi Bandung. I have my interest on Software Development and currently focusing 
             on learning Front End Development. Besides that, Cybersecurity also fascinates me and i am eager to expand my knowledge 
             in this area. Building projects has been a good challenges for me and fuels my enthusiasm for learning a further new knowledge.
             My goal hopefully is to master both Front End and Back End technologies, ultimately becoming a well-rounded Full-Stack Developer. 

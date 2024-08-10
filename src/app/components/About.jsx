@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react"
 import Image from "next/image";
 import HTMLIcon from "../../../public/html-1.svg"
 import CSSIcon from "../../../public/css-3.svg"
@@ -16,7 +16,7 @@ const About = () => {
           <div className="my-4 mb-4 pr-4">
             <h2 className="text-4xl font-bold text-black mb-4">My Profile</h2>
             <p className="text-lg text-gray-900">
-              I'm Muhammad Aufa Farabi, A 19 year old undergraduate Informatics Engineering Student at Institut Teknologi Bandung.
+              I am Muhammad Aufa Farabi, A 19 year old undergraduate Informatics Engineering Student at Institut Teknologi Bandung.
               ga bakal periss
               My enthusiasm for creating user-friendly interfaces drives me to explore the latest technologies and design trends.
                I enjoy turning complex problems into intuitive and engaging web applications, always aiming to enhance the user

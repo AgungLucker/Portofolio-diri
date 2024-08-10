@@ -63,7 +63,7 @@ const More = () => {
   return (
     <section className="h-[120vh] py-10">
       <h2 className="text-center text-4xl font-bold text-black mt-4 mb-4 py-6">
-      More About Me</h2>
+      More Informations</h2>
       <div>
         <TabsComponent 
           tabItems={tabItems}

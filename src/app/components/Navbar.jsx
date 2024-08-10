@@ -10,8 +10,8 @@ const Navbar = () => {
         <div className="flex justify-between items-center p-6 mx-auto">
             <Link href={"/"} className="text-gray-700 text-3xl font-bold mx-3">Aufa Portfolio</Link>
             <div className="flex ml-auto mr-10 space-x-4 text-gray-500">
-                <Link href="#about" className="hover:text-black text-lg">About</Link>
-                <Link href="#more informations" className="hover:text-black text-lg">More</Link>
+                <Link href="#About" className="hover:text-black text-lg">About</Link>
+                <Link href="#More " className="hover:text-black text-lg">More Informations</Link>
             </div>
             <div className="h-8 border-r border-gray-800 mr-5"></div>
             <div className="flex flex-row space-x-4 pl-2  ">

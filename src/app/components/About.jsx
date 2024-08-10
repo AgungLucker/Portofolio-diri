@@ -10,7 +10,7 @@ import GithubIcon from "../../../public/github-icon.svg"
 import GitIcon from "../../../public/git-icon.svg"
 const About = () => {
   return (
-    <section id="about" className="h-100vh bg-[#ffcfda] -mx-10 -my-12">
+    <section id="About" className="h-100vh bg-[#ffcfda] -mx-10 -my-12">
       <div className="grid grid-cols-12 gap-16 items-center py-16 px-16">
         <div className="col-span-8 mt-4 md:mt-0 text-left flex flex-col h-full">
           <div className="my-4 mb-4 pr-4">

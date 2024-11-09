@@ -1,5 +1,5 @@
-import React from 'react';
-import ExperiencesCard from './ExperiencesCard';
+import React from "react";
+import ExperiencesCard from "./ExperiencesCard";
 
 const Experiences = () => {
     const experiences = [

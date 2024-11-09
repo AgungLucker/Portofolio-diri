@@ -1,5 +1,5 @@
-import React from 'react'
-import Image from 'next/image'
+import React from "react"
+import Image from "next/image"
 import GithubIcon from "../../../public/github-icon.svg";
 import LinkedinIcon from "../../../public/linkedin-icon.svg";
 

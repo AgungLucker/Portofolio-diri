@@ -1,5 +1,5 @@
 import React from "react";
-
+import Image from "next/image";
 
 const techStackIcons = {
   Python: "/python-5.svg",
@@ -27,10 +27,12 @@ const ProjectsCard = ({ imgURL, title, desc, techStack, tab }) => {
             {techStack && techStack.length > 0 && (
                 <div className="flex flex-wrap gap-2 mt-auto mb-8">
                   {techStack.map((tech, index) => (
-                    <img
+                    <Image
                       key={index}
                       src={techStackIcons[tech] || "/public/default-icon.png"} 
                       alt={tech}
+                      width={24}
+                      height={24}
                       className="h-6 w-6 ml-2 object-contain" 
                     />
                   ))}

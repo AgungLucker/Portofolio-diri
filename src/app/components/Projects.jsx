@@ -1,4 +1,3 @@
-
 import ProjectsCard from "./ProjectsCard";
 import React, { useState, useRef } from "react";
 
@@ -42,7 +41,7 @@ const Activities = () => {
     <section id="Projects" className="h-auto bg-[rgb(230,232,221)] rounded-t-[3%] rounded-b-[3%] md:rounded-t-[60px] md:rounded-b-[60px] px-4 pb-5 md:px-10 md:py-10 mt-5">
       <h2 className="text-center text-2xl font-bold text-black mt-4 pt-2 py-2">
       recent  <span className="text-red-600 text-3xl">PROJECTS</span></h2>
-      <p className="text-center text-lg font-medium text-[#604b4b] pb-2 mb-4" >Here are some of projects i've worked on</p>
+      <p className="text-center text-lg font-medium text-[#604b4b] pb-2 mb-4" >Here are some of projects i&#39;ve worked on</p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {filteredProjects.map((project) => (
           <ProjectsCard

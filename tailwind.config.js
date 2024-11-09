@@ -7,6 +7,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        playfair: ['Playfair Display', 'serif'],
+      },
+      colors: {
+        customBg1: 'rgb(237, 237, 234)',
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":

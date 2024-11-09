@@ -12,7 +12,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/weblogo.png" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap"
+            rel="stylesheet"
+          />
       </head>
       <body className={inter.className}>{children}</body>
     </html>

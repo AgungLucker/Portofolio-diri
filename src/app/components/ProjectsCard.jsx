@@ -46,15 +46,3 @@ const ProjectsCard = ({ imgURL, title, desc, techStack, tab }) => {
 };
 
 export default ProjectsCard;
-{/* {tab === "Experience" && (
-        <div className="rounded-md overflow-hidden shadow-lg mt-6 border-2 border-gray-800">
-          <div
-            className="h-40 bg-cover bg-center"
-            style={{ backgroundImage: `url(${imgURL})` }}
-          />
-          <div className="bg-white p-4 text-black">
-            <h3 className="text-lg font-semibold leading-tight">{title}</h3>
-            <p>{desc}</p>
-          </div>
-        </div>
-      )} */}

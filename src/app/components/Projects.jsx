@@ -22,7 +22,7 @@ const ProjectsData = [
     id: 3,
     title: "Tasklink",
     description: "A task management app with built-in calendar",
-    image: "/images/tasklink.png",
+    image: "/images/Tasklink.png",
     tab: ["Projects"],
     techStack: ["React", "Nextjs", "Tailwind"],
   },

@@ -14,7 +14,7 @@ const ProjectsCard = ({ imgURL, title, desc, techStack, tab }) => {
   return (
     <div>
       {(
-        <div className="w-[85%]  md:w-[250px] lg:w-[300px] max-w-[full] rounded-lg overflow-hidden mx-auto shadow-lg mt-6 border-2 border-solid border-gray-800">
+        <div className="w-[85%] md:w-[250px] lg:w-[300px] max-w-[full] rounded-lg overflow-hidden mx-auto shadow-lg mt-6 border-2 border-solid border-gray-800">
           <div
             className="h-40 bg-cover bg-center"
             style={{ backgroundImage: `url(${imgURL})` }}
